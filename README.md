@@ -1,4 +1,4 @@
-# IDD_segmentation
+# IDD_Segmentation
 Segmentation on [India Driving Dataset](http://idd.insaan.iiit.ac.in/)
 
 #### Dataset : http://idd.insaan.iiit.ac.in/dataset/download/
