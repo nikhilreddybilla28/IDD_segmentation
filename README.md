@@ -7,7 +7,16 @@ Validation
 Test
 ![test](https://github.com/nikhilreddybilla28/IDD_segmentation/blob/main/preds/test.png?raw=true)
 
-##Metrics
-![loss](https://github.com/nikhilreddybilla28/IDD_segmentation/blob/main/metrics/loss.png?raw=true)
-![dice_score](https://github.com/nikhilreddybilla28/IDD_segmentation/blob/main/metrics/dice.png?raw=true)
-![IOU](https://github.com/nikhilreddybilla28/IDD_segmentation/blob/main/metrics/iou.png?raw=true)
+### [loss & Metrics](https://wandb.ai/nikilr/IDD_seg/reports/IDD-segmentation--VmlldzoyMDgwMTI5?accessToken=frm8454xffcoresvqc983amufxaeb58pxj19631qtel9guj4au5sw3zsecmb1j92)
+
+<p align="left">
+  <img src="https://github.com/nikhilreddybilla28/IDD_segmentation/blob/main/metrics/loss.png?raw=true" width="600" title="Loss">
+ </p>
+
+<br />
+<br />
+
+ <p align="left">
+  <img src="https://github.com/nikhilreddybilla28/IDD_segmentation/blob/main/metrics/dice.png?raw=true" width="500" alt="Dice_Score">
+  <img src="https://github.com/nikhilreddybilla28/IDD_segmentation/blob/main/metrics/iou.png?raw=true" width="500" alt="IOU/Jaccard_score">
+</p>
