@@ -3,6 +3,9 @@ Segmentation on [India Driving Dataset](http://idd.insaan.iiit.ac.in/)
 
 #### Dataset : http://idd.insaan.iiit.ac.in/dataset/download/
 <br />
+
+#### Wandb : https://wandb.ai/nikilr/IDD_seg/reports/IDD-segmentation--VmlldzoyMDgwMTI5?accessToken=frm8454xffcoresvqc983amufxaeb58pxj19631qtel9guj4au5sw3zsecmb1j92
+<br />
 <br />
 
 #### Validation
